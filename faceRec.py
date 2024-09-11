@@ -1,7 +1,7 @@
 import face_recognition
 import cv2
 import numpy as np
-# MUST have webcam or script will error
+# MUST have active webcam or script will error
 # refers to default webcam
 video_capture = cv2.VideoCapture(0)
 
